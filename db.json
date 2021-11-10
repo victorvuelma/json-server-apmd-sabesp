@@ -1,7 +1,7 @@
 {
   "params": [
     {
-      "data": "2021-02-01T03:00:00.000",
+      "data": "2021-01-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ALTO TIETÊ",
       "turbidezExigido": 563,
@@ -11,7 +11,7 @@
       "corAparenteRealizado": 189,
       "corAparenteConforme": 188,
       "crlExigido": 563,
-      "crlRelizado": 614,
+      "crlRealizado": 614,
       "crlConforme": 614,
       "coliformeExigido": 563,
       "coliformeRealizado": 614,
@@ -21,7 +21,7 @@
       "eColiConforme": 614
     },
     {
-      "data": "2021-03-01T03:00:00.000",
+      "data": "2021-02-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ALTO TIETÊ",
       "turbidezExigido": 563,
@@ -31,7 +31,7 @@
       "corAparenteRealizado": 182,
       "corAparenteConforme": 181,
       "crlExigido": 563,
-      "crlRelizado": 593,
+      "crlRealizado": 593,
       "crlConforme": 593,
       "coliformeExigido": 563,
       "coliformeRealizado": 593,
@@ -41,7 +41,7 @@
       "eColiConforme": 593
     },
     {
-      "data": "2021-04-01T03:00:00.000",
+      "data": "2021-03-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ALTO TIETÊ",
       "turbidezExigido": 563,
@@ -51,7 +51,7 @@
       "corAparenteRealizado": 183,
       "corAparenteConforme": 181,
       "crlExigido": 563,
-      "crlRelizado": 597,
+      "crlRealizado": 597,
       "crlConforme": 597,
       "coliformeExigido": 563,
       "coliformeRealizado": 597,
@@ -61,7 +61,7 @@
       "eColiConforme": 597
     },
     {
-      "data": "2021-05-01T03:00:00.000",
+      "data": "2021-04-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ALTO TIETÊ",
       "turbidezExigido": 563,
@@ -71,7 +71,7 @@
       "corAparenteRealizado": 181,
       "corAparenteConforme": 181,
       "crlExigido": 563,
-      "crlRelizado": 586,
+      "crlRealizado": 586,
       "crlConforme": 586,
       "coliformeExigido": 563,
       "coliformeRealizado": 583,
@@ -81,7 +81,7 @@
       "eColiConforme": 583
     },
     {
-      "data": "2021-06-01T03:00:00.000",
+      "data": "2021-05-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ALTO TIETÊ",
       "turbidezExigido": 563,
@@ -91,7 +91,7 @@
       "corAparenteRealizado": 184,
       "corAparenteConforme": 184,
       "crlExigido": 563,
-      "crlRelizado": 587,
+      "crlRealizado": 587,
       "crlConforme": 587,
       "coliformeExigido": 563,
       "coliformeRealizado": 587,
@@ -101,7 +101,7 @@
       "eColiConforme": 587
     },
     {
-      "data": "2021-07-01T03:00:00.000",
+      "data": "2021-06-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ALTO TIETÊ",
       "turbidezExigido": 563,
@@ -111,7 +111,7 @@
       "corAparenteRealizado": 255,
       "corAparenteConforme": 254,
       "crlExigido": 563,
-      "crlRelizado": 582,
+      "crlRealizado": 582,
       "crlConforme": 582,
       "coliformeExigido": 563,
       "coliformeRealizado": 582,
@@ -121,7 +121,7 @@
       "eColiConforme": 582
     },
     {
-      "data": "2021-08-01T03:00:00.000",
+      "data": "2021-07-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ALTO TIETÊ",
       "turbidezExigido": 563,
@@ -131,7 +131,7 @@
       "corAparenteRealizado": 261,
       "corAparenteConforme": 261,
       "crlExigido": 563,
-      "crlRelizado": 590,
+      "crlRealizado": 590,
       "crlConforme": 590,
       "coliformeExigido": 563,
       "coliformeRealizado": 589,
@@ -141,7 +141,7 @@
       "eColiConforme": 589
     },
     {
-      "data": "2021-09-01T03:00:00.000",
+      "data": "2021-08-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ALTO TIETÊ",
       "turbidezExigido": 242,
@@ -151,7 +151,7 @@
       "corAparenteRealizado": 593,
       "corAparenteConforme": 591,
       "crlExigido": 242,
-      "crlRelizado": 593,
+      "crlRealizado": 593,
       "crlConforme": 593,
       "coliformeExigido": 242,
       "coliformeRealizado": 593,
@@ -161,7 +161,7 @@
       "eColiConforme": 593
     },
     {
-      "data": "2021-10-01T03:00:00.000",
+      "data": "2021-09-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ALTO TIETÊ",
       "turbidezExigido": 242,
@@ -171,7 +171,7 @@
       "corAparenteRealizado": 373,
       "corAparenteConforme": 371,
       "crlExigido": 242,
-      "crlRelizado": 373,
+      "crlRealizado": 373,
       "crlConforme": 373,
       "coliformeExigido": 242,
       "coliformeRealizado": 371,
@@ -181,7 +181,7 @@
       "eColiConforme": 371
     },
     {
-      "data": "2021-02-01T03:00:00.000",
+      "data": "2021-01-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "CANTAREIRA",
       "turbidezExigido": 725,
@@ -191,7 +191,7 @@
       "corAparenteRealizado": 273,
       "corAparenteConforme": 273,
       "crlExigido": 725,
-      "crlRelizado": 792,
+      "crlRealizado": 792,
       "crlConforme": 792,
       "coliformeExigido": 725,
       "coliformeRealizado": 790,
@@ -201,7 +201,7 @@
       "eColiConforme": 790
     },
     {
-      "data": "2021-03-01T03:00:00.000",
+      "data": "2021-02-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "CANTAREIRA",
       "turbidezExigido": 725,
@@ -211,7 +211,7 @@
       "corAparenteRealizado": 269,
       "corAparenteConforme": 269,
       "crlExigido": 725,
-      "crlRelizado": 793,
+      "crlRealizado": 793,
       "crlConforme": 793,
       "coliformeExigido": 725,
       "coliformeRealizado": 793,
@@ -221,7 +221,7 @@
       "eColiConforme": 793
     },
     {
-      "data": "2021-04-01T03:00:00.000",
+      "data": "2021-03-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "CANTAREIRA",
       "turbidezExigido": 725,
@@ -231,7 +231,7 @@
       "corAparenteRealizado": 279,
       "corAparenteConforme": 279,
       "crlExigido": 725,
-      "crlRelizado": 797,
+      "crlRealizado": 797,
       "crlConforme": 797,
       "coliformeExigido": 725,
       "coliformeRealizado": 797,
@@ -241,7 +241,7 @@
       "eColiConforme": 796
     },
     {
-      "data": "2021-05-01T03:00:00.000",
+      "data": "2021-04-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "CANTAREIRA",
       "turbidezExigido": 725,
@@ -251,7 +251,7 @@
       "corAparenteRealizado": 284,
       "corAparenteConforme": 284,
       "crlExigido": 725,
-      "crlRelizado": 807,
+      "crlRealizado": 807,
       "crlConforme": 807,
       "coliformeExigido": 725,
       "coliformeRealizado": 804,
@@ -261,7 +261,7 @@
       "eColiConforme": 804
     },
     {
-      "data": "2021-06-01T03:00:00.000",
+      "data": "2021-05-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "CANTAREIRA",
       "turbidezExigido": 725,
@@ -271,7 +271,7 @@
       "corAparenteRealizado": 276,
       "corAparenteConforme": 276,
       "crlExigido": 725,
-      "crlRelizado": 793,
+      "crlRealizado": 793,
       "crlConforme": 793,
       "coliformeExigido": 725,
       "coliformeRealizado": 792,
@@ -281,7 +281,7 @@
       "eColiConforme": 792
     },
     {
-      "data": "2021-07-01T03:00:00.000",
+      "data": "2021-06-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "CANTAREIRA",
       "turbidezExigido": 725,
@@ -291,7 +291,7 @@
       "corAparenteRealizado": 454,
       "corAparenteConforme": 454,
       "crlExigido": 725,
-      "crlRelizado": 805,
+      "crlRealizado": 805,
       "crlConforme": 805,
       "coliformeExigido": 725,
       "coliformeRealizado": 802,
@@ -301,7 +301,7 @@
       "eColiConforme": 802
     },
     {
-      "data": "2021-08-01T03:00:00.000",
+      "data": "2021-07-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "CANTAREIRA",
       "turbidezExigido": 725,
@@ -311,7 +311,7 @@
       "corAparenteRealizado": 495,
       "corAparenteConforme": 495,
       "crlExigido": 725,
-      "crlRelizado": 810,
+      "crlRealizado": 810,
       "crlConforme": 810,
       "coliformeExigido": 725,
       "coliformeRealizado": 801,
@@ -321,7 +321,7 @@
       "eColiConforme": 801
     },
     {
-      "data": "2021-09-01T03:00:00.000",
+      "data": "2021-08-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "CANTAREIRA",
       "turbidezExigido": 290,
@@ -331,7 +331,7 @@
       "corAparenteRealizado": 773,
       "corAparenteConforme": 772,
       "crlExigido": 290,
-      "crlRelizado": 773,
+      "crlRealizado": 773,
       "crlConforme": 773,
       "coliformeExigido": 290,
       "coliformeRealizado": 773,
@@ -341,7 +341,7 @@
       "eColiConforme": 773
     },
     {
-      "data": "2021-10-01T03:00:00.000",
+      "data": "2021-09-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "CANTAREIRA",
       "turbidezExigido": 290,
@@ -351,7 +351,7 @@
       "corAparenteRealizado": 598,
       "corAparenteConforme": 595,
       "crlExigido": 290,
-      "crlRelizado": 592,
+      "crlRealizado": 592,
       "crlConforme": 592,
       "coliformeExigido": 290,
       "coliformeRealizado": 592,
@@ -361,7 +361,7 @@
       "eColiConforme": 592
     },
     {
-      "data": "2021-02-01T03:00:00.000",
+      "data": "2021-01-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "GUARAPIRANGA",
       "turbidezExigido": 801,
@@ -371,7 +371,7 @@
       "corAparenteRealizado": 229,
       "corAparenteConforme": 227,
       "crlExigido": 801,
-      "crlRelizado": 803,
+      "crlRealizado": 803,
       "crlConforme": 775,
       "coliformeExigido": 801,
       "coliformeRealizado": 801,
@@ -381,7 +381,7 @@
       "eColiConforme": 801
     },
     {
-      "data": "2021-03-01T03:00:00.000",
+      "data": "2021-02-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "GUARAPIRANGA",
       "turbidezExigido": 801,
@@ -391,7 +391,7 @@
       "corAparenteRealizado": 211,
       "corAparenteConforme": 210,
       "crlExigido": 801,
-      "crlRelizado": 831,
+      "crlRealizado": 831,
       "crlConforme": 816,
       "coliformeExigido": 801,
       "coliformeRealizado": 832,
@@ -401,7 +401,7 @@
       "eColiConforme": 832
     },
     {
-      "data": "2021-04-01T03:00:00.000",
+      "data": "2021-03-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "GUARAPIRANGA",
       "turbidezExigido": 801,
@@ -411,7 +411,7 @@
       "corAparenteRealizado": 211,
       "corAparenteConforme": 211,
       "crlExigido": 801,
-      "crlRelizado": 805,
+      "crlRealizado": 805,
       "crlConforme": 793,
       "coliformeExigido": 801,
       "coliformeRealizado": 804,
@@ -421,7 +421,7 @@
       "eColiConforme": 804
     },
     {
-      "data": "2021-05-01T03:00:00.000",
+      "data": "2021-04-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "GUARAPIRANGA",
       "turbidezExigido": 801,
@@ -431,7 +431,7 @@
       "corAparenteRealizado": 222,
       "corAparenteConforme": 222,
       "crlExigido": 801,
-      "crlRelizado": 810,
+      "crlRealizado": 810,
       "crlConforme": 803,
       "coliformeExigido": 801,
       "coliformeRealizado": 805,
@@ -441,7 +441,7 @@
       "eColiConforme": 805
     },
     {
-      "data": "2021-06-01T03:00:00.000",
+      "data": "2021-05-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "GUARAPIRANGA",
       "turbidezExigido": 801,
@@ -451,7 +451,7 @@
       "corAparenteRealizado": 209,
       "corAparenteConforme": 208,
       "crlExigido": 801,
-      "crlRelizado": 834,
+      "crlRealizado": 834,
       "crlConforme": 825,
       "coliformeExigido": 801,
       "coliformeRealizado": 825,
@@ -461,7 +461,7 @@
       "eColiConforme": 825
     },
     {
-      "data": "2021-07-01T03:00:00.000",
+      "data": "2021-06-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "GUARAPIRANGA",
       "turbidezExigido": 801,
@@ -471,7 +471,7 @@
       "corAparenteRealizado": 227,
       "corAparenteConforme": 227,
       "crlExigido": 801,
-      "crlRelizado": 811,
+      "crlRealizado": 811,
       "crlConforme": 803,
       "coliformeExigido": 801,
       "coliformeRealizado": 808,
@@ -481,7 +481,7 @@
       "eColiConforme": 808
     },
     {
-      "data": "2021-08-01T03:00:00.000",
+      "data": "2021-07-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "GUARAPIRANGA",
       "turbidezExigido": 801,
@@ -491,7 +491,7 @@
       "corAparenteRealizado": 252,
       "corAparenteConforme": 252,
       "crlExigido": 801,
-      "crlRelizado": 810,
+      "crlRealizado": 810,
       "crlConforme": 807,
       "coliformeExigido": 801,
       "coliformeRealizado": 804,
@@ -501,7 +501,7 @@
       "eColiConforme": 804
     },
     {
-      "data": "2021-09-01T03:00:00.000",
+      "data": "2021-08-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "GUARAPIRANGA",
       "turbidezExigido": 346,
@@ -511,7 +511,7 @@
       "corAparenteRealizado": 392,
       "corAparenteConforme": 390,
       "crlExigido": 346,
-      "crlRelizado": 390,
+      "crlRealizado": 390,
       "crlConforme": 386,
       "coliformeExigido": 346,
       "coliformeRealizado": 392,
@@ -521,7 +521,7 @@
       "eColiConforme": 392
     },
     {
-      "data": "2021-10-01T03:00:00.000",
+      "data": "2021-09-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "GUARAPIRANGA",
       "turbidezExigido": 346,
@@ -531,7 +531,7 @@
       "corAparenteRealizado": 350,
       "corAparenteConforme": 346,
       "crlExigido": 346,
-      "crlRelizado": 352,
+      "crlRealizado": 352,
       "crlConforme": 340,
       "coliformeExigido": 346,
       "coliformeRealizado": 349,
@@ -541,7 +541,7 @@
       "eColiConforme": 349
     },
     {
-      "data": "2021-02-01T03:00:00.000",
+      "data": "2021-01-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "MARSILAC",
       "turbidezExigido": 10,
@@ -551,7 +551,27 @@
       "corAparenteRealizado": 7,
       "corAparenteConforme": 7,
       "crlExigido": 10,
-      "crlRelizado": 11,
+      "crlRealizado": 11,
+      "crlConforme": 11,
+      "coliformeExigido": 10,
+      "coliformeRealizado": 11,
+      "coliformeConforme": 11,
+      "eColiExigido": 10,
+      "eColiRealizado": 11,
+      "eColiConforme": 11
+    },
+    {
+      "data": "2021-02-01T03:00:00.000",
+      "municipio": "SÃO PAULO",
+      "sistema": "MARSILAC",
+      "turbidezExigido": 10,
+      "turbidezRealizado": 11,
+      "turbidezConforme": 11,
+      "corAparenteExigido": 5,
+      "corAparenteRealizado": 6,
+      "corAparenteConforme": 6,
+      "crlExigido": 10,
+      "crlRealizado": 11,
       "crlConforme": 11,
       "coliformeExigido": 10,
       "coliformeRealizado": 11,
@@ -568,10 +588,10 @@
       "turbidezRealizado": 11,
       "turbidezConforme": 11,
       "corAparenteExigido": 5,
-      "corAparenteRealizado": 6,
-      "corAparenteConforme": 6,
+      "corAparenteRealizado": 5,
+      "corAparenteConforme": 5,
       "crlExigido": 10,
-      "crlRelizado": 11,
+      "crlRealizado": 11,
       "crlConforme": 11,
       "coliformeExigido": 10,
       "coliformeRealizado": 11,
@@ -582,26 +602,6 @@
     },
     {
       "data": "2021-04-01T03:00:00.000",
-      "municipio": "SÃO PAULO",
-      "sistema": "MARSILAC",
-      "turbidezExigido": 10,
-      "turbidezRealizado": 11,
-      "turbidezConforme": 11,
-      "corAparenteExigido": 5,
-      "corAparenteRealizado": 5,
-      "corAparenteConforme": 5,
-      "crlExigido": 10,
-      "crlRelizado": 11,
-      "crlConforme": 11,
-      "coliformeExigido": 10,
-      "coliformeRealizado": 11,
-      "coliformeConforme": 11,
-      "eColiExigido": 10,
-      "eColiRealizado": 11,
-      "eColiConforme": 11
-    },
-    {
-      "data": "2021-05-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "MARSILAC",
       "turbidezExigido": 10,
@@ -611,7 +611,7 @@
       "corAparenteRealizado": 7,
       "corAparenteConforme": 7,
       "crlExigido": 10,
-      "crlRelizado": 11,
+      "crlRealizado": 11,
       "crlConforme": 11,
       "coliformeExigido": 10,
       "coliformeRealizado": 11,
@@ -621,7 +621,7 @@
       "eColiConforme": 11
     },
     {
-      "data": "2021-06-01T03:00:00.000",
+      "data": "2021-05-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "MARSILAC",
       "turbidezExigido": 10,
@@ -631,7 +631,7 @@
       "corAparenteRealizado": 6,
       "corAparenteConforme": 6,
       "crlExigido": 10,
-      "crlRelizado": 13,
+      "crlRealizado": 13,
       "crlConforme": 13,
       "coliformeExigido": 10,
       "coliformeRealizado": 12,
@@ -641,7 +641,7 @@
       "eColiConforme": 12
     },
     {
-      "data": "2021-07-01T03:00:00.000",
+      "data": "2021-06-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "MARSILAC",
       "turbidezExigido": 10,
@@ -651,7 +651,27 @@
       "corAparenteRealizado": 8,
       "corAparenteConforme": 8,
       "crlExigido": 10,
-      "crlRelizado": 11,
+      "crlRealizado": 11,
+      "crlConforme": 11,
+      "coliformeExigido": 10,
+      "coliformeRealizado": 11,
+      "coliformeConforme": 11,
+      "eColiExigido": 10,
+      "eColiRealizado": 11,
+      "eColiConforme": 11
+    },
+    {
+      "data": "2021-07-01T03:00:00.000",
+      "municipio": "SÃO PAULO",
+      "sistema": "MARSILAC",
+      "turbidezExigido": 10,
+      "turbidezRealizado": 11,
+      "turbidezConforme": 11,
+      "corAparenteExigido": 5,
+      "corAparenteRealizado": 6,
+      "corAparenteConforme": 6,
+      "crlExigido": 10,
+      "crlRealizado": 11,
       "crlConforme": 11,
       "coliformeExigido": 10,
       "coliformeRealizado": 11,
@@ -664,26 +684,6 @@
       "data": "2021-08-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "MARSILAC",
-      "turbidezExigido": 10,
-      "turbidezRealizado": 11,
-      "turbidezConforme": 11,
-      "corAparenteExigido": 5,
-      "corAparenteRealizado": 6,
-      "corAparenteConforme": 6,
-      "crlExigido": 10,
-      "crlRelizado": 11,
-      "crlConforme": 11,
-      "coliformeExigido": 10,
-      "coliformeRealizado": 11,
-      "coliformeConforme": 11,
-      "eColiExigido": 10,
-      "eColiRealizado": 11,
-      "eColiConforme": 11
-    },
-    {
-      "data": "2021-09-01T03:00:00.000",
-      "municipio": "SÃO PAULO",
-      "sistema": "MARSILAC",
       "turbidezExigido": 5,
       "turbidezRealizado": 7,
       "turbidezConforme": 7,
@@ -691,7 +691,7 @@
       "corAparenteRealizado": 7,
       "corAparenteConforme": 7,
       "crlExigido": 5,
-      "crlRelizado": 7,
+      "crlRealizado": 7,
       "crlConforme": 7,
       "coliformeExigido": 5,
       "coliformeRealizado": 7,
@@ -701,7 +701,7 @@
       "eColiConforme": 7
     },
     {
-      "data": "2021-10-01T03:00:00.000",
+      "data": "2021-09-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "MARSILAC",
       "turbidezExigido": 5,
@@ -711,7 +711,7 @@
       "corAparenteRealizado": 5,
       "corAparenteConforme": 5,
       "crlExigido": 5,
-      "crlRelizado": 5,
+      "crlRealizado": 5,
       "crlConforme": 5,
       "coliformeExigido": 5,
       "coliformeRealizado": 5,
@@ -721,7 +721,7 @@
       "eColiConforme": 5
     },
     {
-      "data": "2021-02-01T03:00:00.000",
+      "data": "2021-01-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ORIENTAL",
       "turbidezExigido": 10,
@@ -731,7 +731,7 @@
       "corAparenteRealizado": 6,
       "corAparenteConforme": 6,
       "crlExigido": 10,
-      "crlRelizado": 10,
+      "crlRealizado": 10,
       "crlConforme": 10,
       "coliformeExigido": 10,
       "coliformeRealizado": 10,
@@ -741,7 +741,7 @@
       "eColiConforme": 10
     },
     {
-      "data": "2021-03-01T03:00:00.000",
+      "data": "2021-02-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ORIENTAL",
       "turbidezExigido": 10,
@@ -751,7 +751,27 @@
       "corAparenteRealizado": 6,
       "corAparenteConforme": 6,
       "crlExigido": 10,
-      "crlRelizado": 11,
+      "crlRealizado": 11,
+      "crlConforme": 11,
+      "coliformeExigido": 10,
+      "coliformeRealizado": 11,
+      "coliformeConforme": 11,
+      "eColiExigido": 10,
+      "eColiRealizado": 11,
+      "eColiConforme": 11
+    },
+    {
+      "data": "2021-03-01T03:00:00.000",
+      "municipio": "SÃO PAULO",
+      "sistema": "ORIENTAL",
+      "turbidezExigido": 10,
+      "turbidezRealizado": 11,
+      "turbidezConforme": 10,
+      "corAparenteExigido": 5,
+      "corAparenteRealizado": 5,
+      "corAparenteConforme": 5,
+      "crlExigido": 10,
+      "crlRealizado": 11,
       "crlConforme": 11,
       "coliformeExigido": 10,
       "coliformeRealizado": 11,
@@ -768,10 +788,10 @@
       "turbidezRealizado": 11,
       "turbidezConforme": 10,
       "corAparenteExigido": 5,
-      "corAparenteRealizado": 5,
-      "corAparenteConforme": 5,
+      "corAparenteRealizado": 7,
+      "corAparenteConforme": 7,
       "crlExigido": 10,
-      "crlRelizado": 11,
+      "crlRealizado": 11,
       "crlConforme": 11,
       "coliformeExigido": 10,
       "coliformeRealizado": 11,
@@ -782,26 +802,6 @@
     },
     {
       "data": "2021-05-01T03:00:00.000",
-      "municipio": "SÃO PAULO",
-      "sistema": "ORIENTAL",
-      "turbidezExigido": 10,
-      "turbidezRealizado": 11,
-      "turbidezConforme": 10,
-      "corAparenteExigido": 5,
-      "corAparenteRealizado": 7,
-      "corAparenteConforme": 7,
-      "crlExigido": 10,
-      "crlRelizado": 11,
-      "crlConforme": 11,
-      "coliformeExigido": 10,
-      "coliformeRealizado": 11,
-      "coliformeConforme": 11,
-      "eColiExigido": 10,
-      "eColiRealizado": 11,
-      "eColiConforme": 11
-    },
-    {
-      "data": "2021-06-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ORIENTAL",
       "turbidezExigido": 10,
@@ -811,7 +811,7 @@
       "corAparenteRealizado": 6,
       "corAparenteConforme": 6,
       "crlExigido": 10,
-      "crlRelizado": 13,
+      "crlRealizado": 13,
       "crlConforme": 13,
       "coliformeExigido": 10,
       "coliformeRealizado": 12,
@@ -821,7 +821,7 @@
       "eColiConforme": 12
     },
     {
-      "data": "2021-07-01T03:00:00.000",
+      "data": "2021-06-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ORIENTAL",
       "turbidezExigido": 10,
@@ -831,7 +831,7 @@
       "corAparenteRealizado": 8,
       "corAparenteConforme": 8,
       "crlExigido": 10,
-      "crlRelizado": 11,
+      "crlRealizado": 11,
       "crlConforme": 11,
       "coliformeExigido": 10,
       "coliformeRealizado": 11,
@@ -841,7 +841,7 @@
       "eColiConforme": 11
     },
     {
-      "data": "2021-08-01T03:00:00.000",
+      "data": "2021-07-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ORIENTAL",
       "turbidezExigido": 10,
@@ -851,7 +851,7 @@
       "corAparenteRealizado": 6,
       "corAparenteConforme": 6,
       "crlExigido": 10,
-      "crlRelizado": 11,
+      "crlRealizado": 11,
       "crlConforme": 11,
       "coliformeExigido": 10,
       "coliformeRealizado": 11,
@@ -861,7 +861,7 @@
       "eColiConforme": 11
     },
     {
-      "data": "2021-09-01T03:00:00.000",
+      "data": "2021-08-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ORIENTAL",
       "turbidezExigido": 5,
@@ -871,7 +871,7 @@
       "corAparenteRealizado": 7,
       "corAparenteConforme": 7,
       "crlExigido": 5,
-      "crlRelizado": 7,
+      "crlRealizado": 7,
       "crlConforme": 7,
       "coliformeExigido": 5,
       "coliformeRealizado": 7,
@@ -881,7 +881,7 @@
       "eColiConforme": 7
     },
     {
-      "data": "2021-10-01T03:00:00.000",
+      "data": "2021-09-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "ORIENTAL",
       "turbidezExigido": 5,
@@ -891,7 +891,7 @@
       "corAparenteRealizado": 5,
       "corAparenteConforme": 5,
       "crlExigido": 5,
-      "crlRelizado": 5,
+      "crlRealizado": 5,
       "crlConforme": 5,
       "coliformeExigido": 5,
       "coliformeRealizado": 5,
@@ -901,7 +901,7 @@
       "eColiConforme": 5
     },
     {
-      "data": "2021-02-01T03:00:00.000",
+      "data": "2021-01-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "RIO CLARO",
       "turbidezExigido": 205,
@@ -911,7 +911,7 @@
       "corAparenteRealizado": 81,
       "corAparenteConforme": 81,
       "crlExigido": 205,
-      "crlRelizado": 235,
+      "crlRealizado": 235,
       "crlConforme": 235,
       "coliformeExigido": 205,
       "coliformeRealizado": 235,
@@ -921,7 +921,7 @@
       "eColiConforme": 235
     },
     {
-      "data": "2021-03-01T03:00:00.000",
+      "data": "2021-02-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "RIO CLARO",
       "turbidezExigido": 205,
@@ -931,7 +931,7 @@
       "corAparenteRealizado": 70,
       "corAparenteConforme": 70,
       "crlExigido": 205,
-      "crlRelizado": 210,
+      "crlRealizado": 210,
       "crlConforme": 210,
       "coliformeExigido": 205,
       "coliformeRealizado": 210,
@@ -941,7 +941,7 @@
       "eColiConforme": 210
     },
     {
-      "data": "2021-04-01T03:00:00.000",
+      "data": "2021-03-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "RIO CLARO",
       "turbidezExigido": 205,
@@ -951,7 +951,7 @@
       "corAparenteRealizado": 67,
       "corAparenteConforme": 67,
       "crlExigido": 205,
-      "crlRelizado": 213,
+      "crlRealizado": 213,
       "crlConforme": 213,
       "coliformeExigido": 205,
       "coliformeRealizado": 213,
@@ -961,7 +961,7 @@
       "eColiConforme": 213
     },
     {
-      "data": "2021-05-01T03:00:00.000",
+      "data": "2021-04-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "RIO CLARO",
       "turbidezExigido": 205,
@@ -971,7 +971,7 @@
       "corAparenteRealizado": 71,
       "corAparenteConforme": 71,
       "crlExigido": 205,
-      "crlRelizado": 215,
+      "crlRealizado": 215,
       "crlConforme": 215,
       "coliformeExigido": 205,
       "coliformeRealizado": 215,
@@ -981,7 +981,7 @@
       "eColiConforme": 215
     },
     {
-      "data": "2021-06-01T03:00:00.000",
+      "data": "2021-05-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "RIO CLARO",
       "turbidezExigido": 205,
@@ -991,7 +991,7 @@
       "corAparenteRealizado": 68,
       "corAparenteConforme": 68,
       "crlExigido": 205,
-      "crlRelizado": 212,
+      "crlRealizado": 212,
       "crlConforme": 212,
       "coliformeExigido": 205,
       "coliformeRealizado": 212,
@@ -1001,7 +1001,7 @@
       "eColiConforme": 212
     },
     {
-      "data": "2021-07-01T03:00:00.000",
+      "data": "2021-06-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "RIO CLARO",
       "turbidezExigido": 205,
@@ -1011,7 +1011,7 @@
       "corAparenteRealizado": 195,
       "corAparenteConforme": 195,
       "crlExigido": 205,
-      "crlRelizado": 210,
+      "crlRealizado": 210,
       "crlConforme": 210,
       "coliformeExigido": 205,
       "coliformeRealizado": 210,
@@ -1021,7 +1021,7 @@
       "eColiConforme": 210
     },
     {
-      "data": "2021-08-01T03:00:00.000",
+      "data": "2021-07-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "RIO CLARO",
       "turbidezExigido": 205,
@@ -1031,7 +1031,7 @@
       "corAparenteRealizado": 220,
       "corAparenteConforme": 220,
       "crlExigido": 205,
-      "crlRelizado": 220,
+      "crlRealizado": 220,
       "crlConforme": 220,
       "coliformeExigido": 205,
       "coliformeRealizado": 220,
@@ -1041,7 +1041,7 @@
       "eColiConforme": 220
     },
     {
-      "data": "2021-09-01T03:00:00.000",
+      "data": "2021-08-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "RIO CLARO",
       "turbidezExigido": 148,
@@ -1051,7 +1051,7 @@
       "corAparenteRealizado": 219,
       "corAparenteConforme": 219,
       "crlExigido": 148,
-      "crlRelizado": 219,
+      "crlRealizado": 219,
       "crlConforme": 219,
       "coliformeExigido": 148,
       "coliformeRealizado": 219,
@@ -1061,7 +1061,7 @@
       "eColiConforme": 219
     },
     {
-      "data": "2021-10-01T03:00:00.000",
+      "data": "2021-09-01T03:00:00.000",
       "municipio": "SÃO PAULO",
       "sistema": "RIO CLARO",
       "turbidezExigido": 148,
@@ -1071,7 +1071,7 @@
       "corAparenteRealizado": 162,
       "corAparenteConforme": 162,
       "crlExigido": 148,
-      "crlRelizado": 162,
+      "crlRealizado": 162,
       "crlConforme": 162,
       "coliformeExigido": 148,
       "coliformeRealizado": 159,
