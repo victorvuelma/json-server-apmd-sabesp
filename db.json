@@ -1080,5 +1080,31 @@
       "eColiRealizado": 159,
       "eColiConforme": 159
     }
+  ],
+  "systems": [
+    {
+      "name": "Alto Tietê",
+      "imageUrl": "https://victorvuelma.github.io/web-fiap-apmd-sabesp/assets/images/sistemas/tiete.png"
+    },
+    {
+      "name": "Cantareira",
+      "imageUrl": "https://victorvuelma.github.io/web-fiap-apmd-sabesp/assets/images/sistemas/cantareira.png"
+    },
+    {
+      "name": "Guarapiranga",
+      "imageUrl": "https://victorvuelma.github.io/web-fiap-apmd-sabesp/assets/images/sistemas/guarapiranga.png"
+    },
+    {
+      "name": "Marsilac",
+      "imageUrl": "https://victorvuelma.github.io/web-fiap-apmd-sabesp/assets/images/sistemas/marsilac.png"
+    },
+    {
+      "name": "Oriental",
+      "imageUrl": "https://victorvuelma.github.io/web-fiap-apmd-sabesp/assets/images/sistemas/oriental.png"
+    },
+    {
+      "name": "Rio Claro",
+      "imageUrl": "https://victorvuelma.github.io/web-fiap-apmd-sabesp/assets/images/sistemas/rio_claro.png"
+    }
   ]
 }
